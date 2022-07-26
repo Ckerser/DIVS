@@ -1,0 +1,30 @@
+body {
+    font-size: 20px;
+}
+
+.start {
+    display: flex;
+}
+
+.leftside {
+    display:flex;
+    justify-content: row;
+    background-image: url('CuteCat.jpeg');
+    height: 500px;
+    width: 500px;
+}
+
+.h1 {
+font-size: 1.5rem;
+}
+
+.rightside {
+display: flex;
+justify-content: row;
+justify-items: center;
+background-color: forestgreen;
+height: 300px;
+width: 300px;
+
+
+}
